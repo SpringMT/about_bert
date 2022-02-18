@@ -2,6 +2,7 @@ Segemakerでやってみる
 
 注意点
 PyTorchを使う
+
 <img width="530" alt="image" src="https://user-images.githubusercontent.com/579005/154593657-fd6582c0-f26b-408d-b3bd-8316eefe2aec.png">
 
 GPUを使ってない場合は
