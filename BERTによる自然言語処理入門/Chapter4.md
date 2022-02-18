@@ -18,6 +18,4 @@ encoding = { k: v.cuda() for k, v in encoding.items() }
 ```
 などは不要(なはず)
 
-### インスタンス
-2 vCPU 4GBのメモリだとjson loadで止まる
 
